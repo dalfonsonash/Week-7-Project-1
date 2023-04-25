@@ -7,8 +7,7 @@
                 Adina Keshner
                 Dave Alfonso
                 
-# Outline:
-          Using 10 years of data from Kaggle csv dataset, and api from Spotify, we will explore the common metrics           behind US Music Top Ten Billboard hits.  Metrics measured are beats-per-minute(bpm), decibels(db), song           duration(dur), and energy(nrgy).
+# Outline:Using 10 years of data from Kaggle csv dataset, and api from Spotify, we will explore the common metrics           behind US Music Top Ten Billboard hits.  Metrics measured are beats-per-minute(bpm), decibels(db), song           duration(dur), and energy(nrgy).
           
 # Question:  Can music artists and producers use these "behind the scene" metrics to help push their songs to the top of the charts. 
 
