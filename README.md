@@ -10,4 +10,4 @@
           
 ## Question:  Can music artists and producers use these "behind the scene" metrics to help help increase their download numbers on Spotify. 
 
-## Research:  Using the stated measured metrics, generate scatter plots, and bar graphs to show were these metrics standup within the top songs.  Use linear regression to show if there is a strong correlation between these metrics and top ten hits over a ten year period.  Try to integrate pythony cool graphics into the final presentation.
+## Research:  Using the stated measured metrics, pie charts, and bar graphs to show how these metrics standup within the top genres and artists.  Try to find if there is a strong correlation between these metrics and top ten hits over a ten year period.  Try to integrate pythony cool graphics into the final presentation.
