@@ -1,5 +1,5 @@
 # Week 7 Group6: Project-1
-# Title:  Behind the Music (Metrics for a Top Ten hit!)
+# Title: Spotify Behind the Music (Metrics for a Top 100 hit!)
 
 ## Team Members:
                 Daisy Kolosovskiy = (see Cleaned_Spotify.ipynb)
