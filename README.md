@@ -2,7 +2,7 @@
 # Title: Spotify Behind the Music (Metrics for a Top 100 hit!)
 
 ## Team Members:
-                Daisy Kolosovskiy = (see Cleaned_Spotify.ipynb)
+                Daisy Kolosovskiy = (see Cleaned_Daisy_Spotify.ipynb)
                 Miguel Garcia = (see Artist_Spotify.ipynb)
                 Dave Alfonso = (see Daves_Spotify.ipynb)
                 
