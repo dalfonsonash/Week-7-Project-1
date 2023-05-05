@@ -13,4 +13,4 @@
 ## Research:  Using the stated measured metrics, pie charts, and bar graphs to show how these metrics standup within the top genres and artists.  Try to find if there is a strong correlation between these metrics and top ten hits over a ten year period.  Try to integrate pythony cool graphics into the final presentation.
 
 ## Conclusion: Based on analysis of music metrics we were unable to find any discernible difference that set the top genre apart from the rest
-If you want to be in the top spot of Spotify downloads, be the next Katy Perry by having even metrics throughout your music to ensure longevity within the Top 100 spots.
+## If you want to be in the top spot of Spotify downloads, be the next Katy Perry by having even metrics throughout your music to ensure longevity within the Top 100 spots.
