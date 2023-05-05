@@ -6,7 +6,7 @@
                 Miguel Garcia
                 Dave Alfonso
                 
-## Outline:Using 10 years of data from Kaggle csv dataset, and api from Spotify, we will explore the common metrics behind Spotifiy's top downloaded songs from 2010 to 2019.  Music metrics measured are beats-per-minute(bpm), decibels(db), song duration(dur), and energy(nrgy).
+## Outline:Using 10 years of data from Kaggle csv dataset, created from a Spotify api by Micheal Morris (https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019), we will explore the common metrics behind Spotifiy's top downloaded songs from 2010 to 2019.  Music metrics measured are beats-per-minute(bpm), decibels(db), song duration(dur), and energy(nrgy).
           
 ## Question:  Can music artists and producers use these "behind the scene" metrics to help help increase their download numbers on Spotify. 
 
